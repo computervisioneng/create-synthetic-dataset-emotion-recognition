@@ -10,4 +10,4 @@ Creating an Emotion Recognition Synthetic Dataset with Python &amp; Stable Diffu
 
 ## data
 
-You can download the same dataset I generated in this tutorial [here](todo).
+You can download the same dataset I generated in this tutorial [here](https://www.patreon.com/posts/97173398).
